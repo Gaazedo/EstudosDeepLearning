@@ -1,4 +1,4 @@
-# EstudosTensorFlow
+# Estudos Tensor Flow
 -- SCRIPT DE ESTUDO PARA TENSOR FLOW - MÓDULO INICIAL
 
 Documentação Básica: (https://www.tensorflow.org/guide?hl=pt-br#documentacao-basica)
