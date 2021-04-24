@@ -1,4 +1,7 @@
-# Estudos Tensor Flow
+# Estudos Deep Learning
+
+Primeiro Teste em Deep Learning - Previsões usando Mnist: https://colab.research.google.com/drive/1t_OWXWodZrhtPAldVsrIe7CJ4SQ-uXiG?usp=sharing
+
 -- SCRIPT DE ESTUDO PARA TENSOR FLOW - MÓDULO INICIAL
 
 Documentação Básica: (https://www.tensorflow.org/guide?hl=pt-br#documentacao-basica)
